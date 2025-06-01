@@ -5,7 +5,13 @@
 </p>
 
 <h1 align="center">🐾 VetCare Voting DApp</h1>
-<p align="center">A decentralized voting & donation platform for veterinarians using Stellar & Soroban</p>
+<p align="center">A decentralized voting & donation platform for veterinarians using Stellar & Soroban
+
+
+VetCare Voting DApp is a decentralized voting application developed to measure and support the satisfaction of veterinarians in İzmir. Users can vote by selecting one of three voting options, and an automatic donation is made to the account of the veterinarian they voted for. This way, you can support veterinarians both by voting and by donating.
+
+The application is built on the Stellar blockchain infrastructure and uses Soroban smart contract technology, ensuring that transactions are transparent, secure, and fast. The frontend features a modern and user-friendly interface designed with Tailwind CSS for a responsive and elegant look. Integration with the Freighter wallet makes it easy for users to connect their crypto wallets securely.
+</p>
 
 ---
 
